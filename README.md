@@ -1,2 +1,3 @@
-# gaussian-mixure-nll-loss
-An implementation of Gaussian Mixture NLL loss for continuous density estimation.
+# Gaussian Mixture NLL Loss
+
+An implementation of Gaussian mixture NLL loss for continuous density estimation. 
